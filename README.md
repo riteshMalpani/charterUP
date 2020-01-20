@@ -1,4 +1,4 @@
 # charterUP
 iOS 
 
-![](1Dem.gif | width=100)
+![](1Dem.gif | width="48")
