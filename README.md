@@ -2,7 +2,7 @@
 iOS 
 
 
-img[alt=1Dem.gif] {
+img[alt=1Dem] {
   width: 70%;
   border: none;
   background: none;
